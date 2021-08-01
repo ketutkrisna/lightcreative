@@ -1,0 +1,11 @@
+.aktif{
+    border-bottom: 3px solid white;
+}
+.row .gf{
+	margin-top: 20px;
+	margin-bottom: 0px
+}
+.row .da,.row .n{
+	margin-top: 60px;
+	margin-bottom: 0px
+}
